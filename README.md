@@ -22,7 +22,9 @@ Majority of the learnings from the blog article by [umaraju18](https://github.co
 (https://medium.com/towards-data-science/sentiment-analysis-and-product-recommendation-on-amazons-electronics-dataset-reviews-part-1-6b340de660c2)
 and other blogs and articles from other online sources.
 
+
+
 >**Disclaimer:** 
 
-I am not a machine learning engineer or a Data scientist. This is also a self learning project where I learn from other study materials, blogs and articles from the internet. I try to break down things to its simplest form and provide a step by step implementation and explanation for easy of understanding and quickly understand some of the concepts behind the algorithms and try to put everything together in one place.
+I am not a machine learning engineer or a Data scientist. This is also a self learning project where I learn from other study materials, blogs and articles from the internet. I try to break down things to its simplest form and provide a step by step implementation and explanation for ease of understanding and quickly understand some of the concepts behind the algorithms and try to put everything together in one place.
 
